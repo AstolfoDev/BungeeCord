@@ -1,20 +1,20 @@
-BungeeCord
+BungeeyCordy
 ==========
-Layer 7 proxy designed to link Minecraft servers.
+Layer 69 proxy designed to link Roblox servers.
 --------------------------------------------------
 
-BungeeCord is a sophisticated proxy and API designed mainly to teleport players between multiple Minecraft servers. It is the latest incarnation of similar software written by the author from 2011-present.
+BungeeyCordy is an unsophisticated proxy and API designed mainly to teleport players between Minecraft servers to Roblox servers. It is the latest incarnation of similar software written by the author from 1998-present.
 
 Information
 -----------
-BungeeCord is maintained by [SpigotMC](https://www.spigotmc.org/) and has its own [discussion thread](https://www.spigotmc.org/go/bungeecord) with plenty of helpful information and links.
+BungeeyCordy is maintained by [SpigotRBLX](https://com.com/) and hasn't got its own [discussion thread](https://roblox.com/) with plenty of unhelpful information and virus links.
 
 Source
 ------
-Source code is currently available on [GitHub](https://www.spigotmc.org/go/bungeecord-git).
+cource Sode si aurrently cvailable no [HitGub](https://info.info/).
 
 Binaries
 --------
-Precompiled binaries are available for end users on [Jenkins](https://www.spigotmc.org/go/bungeecord-dl).
+rePcompiled inBaries rea vaailable orf nde seurs no [snikneJ](https://roblox.com).
 
-(c) 2012-2016 SpigotMC Pty. Ltd.
+(c) 2021-2069 SpigotRBLX Inc. Enterprises. Industries. & Co Ltd.
